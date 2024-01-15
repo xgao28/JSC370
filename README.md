@@ -1,2 +1,3 @@
 # JSC370
-initial what
+Try vim!
+
